@@ -1,8 +1,8 @@
 Hi there 👋🏼, I'm Mohamed Rimas
 ---------------------------------------------------------------------------
 
-💻 I’m currently studying in Sliit
-🎓 I’m a third year Software Engineering undergraduate in SLIIT University
+💻 I’m currently studying in Sliit                                                                                                                                         
+🎓 I’m a third year Software Engineering undergraduate in SLIIT University                                                                                                         
 📈 I experienced in Problem Solving, Programming and froend-end developers 
 📫 Reach me at 
 🌏 Official Site: 
