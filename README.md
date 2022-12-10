@@ -2,26 +2,26 @@ Hi there 👋🏼, I'm Mohamed Rimas
 ---------------------------------------------------------------------------
 
 💻 I’m currently studying in Sliit                                                                                                                                         
-🎓 I’m a third year Software Engineering undergraduate in SLIIT University                                                                                                         
-📈 I experienced in Problem Solving, Programming and froend-end developers                                                                                                                    
-📫 Reach me at                                                                                                                                                                     
-🌏 Official Site:
+🎓 I’m a second year Software Engineering undergraduate in SLIIT University                                                                                                         
+📈 I experienced in Problem Solving, Programming and froend-end developers                                                                                               
 
-🔍 Find me on:
+🔍 Find me on: contact me -+94775481997
 
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/mohamed-rimas-5ab0621a0/
 
-YouTube:
+📑 successful complet  project
+Online Car Parking System (Html, CSS, bootstrap, js, PHP, SQL) 
 
-Instagram:
+Online Car Parking System (C++) – For module Object Oriented Concepts
 
-Twitter:
+Hotel Room Booking System (Java,JSP,SQL)
 
-📚 Currently working on:
+Hotel Management System (Mernstack) 
 
-📑 Finaly year research project
+Online mobile Shopping app (android studio,java,firbase)
 
-🧑🏻‍💻 Learn Go programming language
 
-🍃 Learn Spring Boot framework
+🧑🏻‍💻 programming language
+c,c++,c#,java,android studio,mearstack,py,js,html,css,R language,Cisco package,sql
+
