@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MohamedRimas</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Rimas</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedrimas&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedrimas" /> </p>
@@ -26,26 +26,26 @@
 
 
 💻 I’m currently studying in Sliit                                                                                                                                         
-🎓 I’m a second year Software Engineering undergraduate in SLIIT University                                                                                                         
-📈 I experienced in Problem Solving, Programming and froend-end developers                                                                                               
+🎓 I’m a second year Software Engineering undergraduate at SLIIT University                                                                                                         
+📈 I experienced in Problem Solving, Programming and front-end developers                                                                                               
 
-🔍 Find me on: contact me -+94775481997
+🔍 Find me on contact me -+94775481997
 
 
 LinkedIn: https://www.linkedin.com/in/mohamed-rimas-5ab0621a0/
 
-📑 successful complet  project
+📑 successful complete  project
 Online Car Parking System (Html, CSS, bootstrap, js, PHP, SQL) 
 
 Online Car Parking System (C++) – For module Object Oriented Concepts
 
-Hotel Room Booking System (Java,JSP,SQL)
+Hotel Room Booking System (Java, JSP,SQL)
 
 Hotel Management System (Mernstack) 
 
-Online mobile Shopping app (android studio,java,firbase)
+Online mobile Shopping app (android studio, java,firebase)
 
 
 🧑🏻‍💻 programming language
-c,c++,c#,java,android studio,mearstack,py,js,html,css,R language,Cisco package,sql
+c,c++,c#,java, android studio,mean stack,py,js,HTML,CSS,R language, Cisco package,SQL
 
