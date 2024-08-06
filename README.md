@@ -79,11 +79,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="languages graph"  />
 </div>
 <div align="center">      
-<a href="https://github.com/mtmz-akir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtm-zakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MohamedRimas/github-readme-activity-graph"><img alt="Rimas Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtm-Rimas&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
 </div>
 <div align="center">     
-    <a href="https://github.com/mtm-zakir/github-readme-streak-stats">
-        <img title="🔥Excellent Streak" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtm-zakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
+    <a href="https://github.com/MohamedRimas/github-readme-streak-stats">
+        <img title="🔥Excellent Streak" alt="Rimas streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtm-Rimas&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
 </div>
 💻 I’m currently studying in Sliit                                                                                                                                         
 🎓 I’m a 4th-year information technology undergraduate at SLIIT University                                                                                                         
