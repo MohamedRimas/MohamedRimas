@@ -74,28 +74,39 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimas&" alt="mohamedrimas" /></p>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="languages graph"  />
+</div>
+<div align="center">      
+<a href="https://github.com/mtmz-akir/github-readme-activity-graph"><img alt="Zakir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtm-zakir&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
+</div>
+<div align="center">     
+    <a href="https://github.com/mtm-zakir/github-readme-streak-stats">
+        <img title="🔥Excellent Streak" alt="Zakir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtm-zakir&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
+</div>
 💻 I’m currently studying in Sliit                                                                                                                                         
-🎓 I’m a second year Software Engineering undergraduate at SLIIT University                                                                                                         
-📈 I experienced in Problem Solving, Programming and front-end developers                                                                                               
+🎓 I’m a 4th-year information technology undergraduate at SLIIT University                                                                                                         
+📈 I am experienced in Problem Solving, Programming, and front-end developers                                                                                               
 
 🔍 Find me on contact me -+94775481997
 
 
 LinkedIn: https://www.linkedin.com/in/mohamed-rimas-5ab0621a0/
+StackOverflow:https://stackoverflow.com/users/20740470/mohamed-rimas
 
 📑 successful complete  project
 Online Car Parking System (Html, CSS, bootstrap, js, PHP, SQL) 
 
 Online Car Parking System (C++) – For module Object Oriented Concepts
 
-Hotel Room Booking System (Java, JSP,SQL)
+Hotel Room Booking System (Java, JSP, SQL)
 
 Hotel Management System (Mernstack) 
 
-Online mobile Shopping app (android studio, java,firebase)
+Online mobile Shopping app (Android Studio, java, firebase)
 
 
 🧑🏻‍💻 programming language
-c,c++,c#,java, android studio,mean stack,py,js,HTML,CSS,R language, Cisco package,SQL
+c,c++,c#, java, android studio, mean stack, py,js, HTML,CSS, R language, Cisco package, SQL
 
