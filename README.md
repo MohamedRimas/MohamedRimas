@@ -58,17 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrimas&" alt="mohamedrimas" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&username=mtm-zakir" height="185" alt="languages graph"  />
-</div>
-<div align="center">      
-<a href="https://github.com/MohamedRimas/github-readme-activity-graph"><img alt="Rimas Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mtm-Rimas&bg_color=0D1117&color=71E204&line=0299E0&point=FFFFFF&hide_border=true" /></a>
-</div>
-<div align="center">     
-    <a href="https://github.com/MohamedRimas/github-readme-streak-stats">
-        <img title="🔥Excellent Streak" alt="Rimas streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mtm-Rimas&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/></a> 
-</div>
+
 💻 I’m currently studying in Sliit                                                                                                                                         
 🎓 I’m a 4th-year information technology undergraduate at SLIIT University                                                                                                         
 📈 I am experienced in Problem Solving, Programming, and front-end developers                                                                                               
@@ -76,7 +66,7 @@
 🔍 Find me on contact me -+94775481997
 
 
-LinkedIn: https://www.linkedin.com/in/mohamed-rimas-5ab0621a0/
+LinkedIn: https://www.linkedin.com/in/mohamed-rimas-5ab0621a0/ <br>
 StackOverflow:https://stackoverflow.com/users/20740470/mohamed-rimas
 
 📑 successful complete  project
