@@ -1,6 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rimas</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mtmzakir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="36" height="27"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17740196/mtmzakir" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="36" height="27"/>
+  </a>
+  <a href="https://t.me/i4m_zakir" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="36" height="27"/>
+  </a>
+  <a href="https://wa.me/+94752202440" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="36" height="27"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCCwyrumvGx6L_6pP5Oc6pIw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" height="27"/>
+  </a>
+</div>
+<br>
 
+![Git Greetings (2)](https://user-images.githubusercontent.com/90142607/190711489-96cb72ae-cf1b-4339-912f-9f251847f440.gif)
 
 ###
 
